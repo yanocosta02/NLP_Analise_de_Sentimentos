@@ -80,7 +80,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 🎓 **Autores:** Vincent Tomio e Yan Oliveira da Costa
 
-📫 Entre em contato: [seu-email](mailto:yanocosta02@gmail.com)
+📫 Entre em contato: [yanocosta02@gmail.com](mailto:yanocosta02@gmail.com)
 
 ---
 
